@@ -1,3 +1,15 @@
+<a name="7.21.1"></a>
+## [7.21.1](https://github.com/jjandco/video.js/compare/v7.20.2...v7.21.1) (2022-09-01)
+
+### Chores
+
+* **docs:** use https URLs in noUITitleAtttributes example ([#7809](https://github.com/jjandco/video.js/issues/7809)) ([0211d73](https://github.com/jjandco/video.js/commit/0211d73))
+* update FAQ redirect ([#7892](https://github.com/jjandco/video.js/issues/7892)) ([3c70573](https://github.com/jjandco/video.js/commit/3c70573)), closes [videojs/videojs.com#159](https://github.com/videojs/videojs.com/issues/159)
+
+### Code Refactoring
+
+* fix typo in player.js ([#7805](https://github.com/jjandco/video.js/issues/7805)) ([9ca2e87](https://github.com/jjandco/video.js/commit/9ca2e87))
+
 <a name="7.20.2"></a>
 ## [7.20.2](https://github.com/videojs/video.js/compare/v7.20.1...v7.20.2) (2022-07-28)
 
