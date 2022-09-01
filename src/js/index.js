@@ -1,3 +1,3 @@
 import videojs from './video';
-import '@videojs/http-streaming';
+import 'http-streaming-uc';
 export default videojs;

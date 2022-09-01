@@ -99,7 +99,7 @@ const moduleExternals = [
   'safe-json-parse',
   'videojs-vtt.js',
   'url-toolkit',
-  'm3u8-parser',
+  'm3u8-parser-uc',
   'mpd-parser',
   'mux.js',
   'aes-decrypter',
@@ -214,7 +214,7 @@ export default cliargs => [
     plugins: [
       alias({
         'video.js': path.resolve(__dirname, './src/js/video.js'),
-        '@videojs/http-streaming': path.resolve(__dirname, './node_modules/@videojs/http-streaming/dist/videojs-http-streaming.es.js')
+        'http-streaming-uc': path.resolve(__dirname, './node_modules/http-streaming-uc/dist/videojs-http-streaming.es.js')
       }),
       replace({
         // single quote replace
