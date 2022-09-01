@@ -1,3 +1,6 @@
+<a name="7.22.0"></a>
+# [7.22.0](https://github.com/jjandco/video.js/compare/v7.21.1...v7.22.0) (2022-09-01)
+
 <a name="7.21.1"></a>
 ## [7.21.1](https://github.com/jjandco/video.js/compare/v7.20.2...v7.21.1) (2022-09-01)
 
